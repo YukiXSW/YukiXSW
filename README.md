@@ -21,5 +21,5 @@ Hola, mi nombre es Lili
 ### Objetivos
 
 1. Crear mi primer proyecto
-2. Profundizar en fontend con JavaScript, HTML, CSS
+2. Profundizar en frontend con JavaScript, HTML, CSS
 3. Aprender más frameworks

@@ -1,5 +1,4 @@
 ## 🌸✨ Hola, mi nombre es Lili ✨🌸
-Hola, mi nombre es Lili
 👩‍💻Estudiante de Desarrollo de Aplicaciones web
 
 🎀 Actualmente estoy en mi segundo año del GSDAW y me apasiona aprender nuevas tecnologías para construir aplicaciones web modernas y funcionales
